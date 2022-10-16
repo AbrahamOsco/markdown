@@ -20,25 +20,21 @@
 1. item2 
 1. item2 
 1. item2 
-
+***
 Nisiquiera es necesario poner 1. 2. basta con 1. y se actualiza automaticamente cuando se agrega uno nuevo
 ### Ahora hacemos hipervinculos
 ### Mi primer enlace [click para ir a google](http://www.google.com)
-<font color= 'green' > Esto es coloreado de color verde  </font>
-
+---
 
 *Esto esta escrito en italica*
-
+- - - 
 **Esto esta escrito en bold**
 
 <u> Esto esta subrayado </u>
 
 ### texto en bloquotes
 > hola como andas todo bien?
-> sisi todo bien y vos?
-
-> bien mejor que NUNCA ! 
-
+> sisi todo bien 
 
 ### Escribiendo codigo en python:
 ```python
